@@ -21,3 +21,9 @@
   - LSP 리스코프 치환 원칙
   - DIP 의존 역전 원칙
 - 그래들 공부 컴파일온리
+- Junit -> 독서 예정
+- Multi thread
+- Async
+- JAP, filter
+- merge vs rebase
+- gitaction -> RWM
