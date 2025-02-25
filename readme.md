@@ -28,3 +28,14 @@
 - merge vs rebase
 - gitaction -> RWM
 - 스트림
+- static
+- char <> Character
+- 6개월 네카쿠라배 검토(자소서 보기)
+- 제네릭 Type
+- 그래프QL
++ SOAP
++ MIME
++ BLOB
++ 허프맨부호화
++ BMP DIB
++ kep-alive 차이
